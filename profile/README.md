@@ -33,10 +33,12 @@ Because ECSS roles change every year:
 
 ---
 
-## Contact
-
-
-- **Website:** https://www.uvicecss.ca/ 
+## Contacts
 - **President:** `President@uvicecss.ca`
 - **IT / technical contact:** `dirit@uvicecss.ca`
-- **Discord :** https://discord.com/invite/ajZabaCTAE
+
+- **Website:** https://www.uvicecss.ca/ 
+
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/invite/ajZabaCTAE)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/uvic_ecss/)
